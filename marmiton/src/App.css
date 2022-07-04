@@ -1,0 +1,50 @@
+.logo{
+  width: 60px;
+  height: auto;
+  margin-right: 350px;
+}
+
+.logoban{
+  background-color: rgba(227, 31, 31, 0.769);
+  display: flex;
+  color:white
+}
+
+.nav {
+  display: flex;
+  justify-content: space-around;
+  background-color: rgb(161, 160, 160);
+  margin-bottom: 15px;
+}
+
+.vignette {
+  border: 1px solid rgba(227, 31, 31, 0.769);
+  margin: 2px;
+}
+
+.recettel{
+  width: 100%;
+  justify-content: center;
+}
+
+.liens{
+  text-decoration: none;
+  color: black;
+margin: 5px;
+}
+
+.liens:hover{
+  text-decoration: underline;
+}
+
+.illustration {
+  width: 350px;
+  height: auto;
+}
+
+.accueil{
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}
+
